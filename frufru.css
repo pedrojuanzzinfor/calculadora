@@ -1,0 +1,54 @@
+body, #fundoPreto{
+    background-color: #fac3da;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#fundoPreto{
+    background-color: black;
+}
+h1{
+color:rgb(94, 42, 143);
+text-align:center;
+font-size: 80px;
+margin-bottom: 25px;
+}
+p, #brutal{
+color:rgb(94, 42, 143);
+text-align:center;
+font-size: 70px;
+margin: 0;
+font-family: Arial;
+}
+#grade{
+    display: grid;
+    grid-template-columns: 300px 500px 300px;
+    grid-template-rows: 300px;
+    width: fit-content;
+}
+
+
+
+#imagemDecorativa{ 
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+    width:500px ;
+}
+#coracao{
+    height: 200px;
+    max-height: fit-content;
+}
+#gliter{
+    height: 200px ;
+
+}
+#sixseven{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(174, 0, 255);
+    text-align: center;
+}
+#brutal{
+    color: red;
+}
